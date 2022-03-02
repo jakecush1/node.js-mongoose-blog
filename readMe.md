@@ -3,7 +3,11 @@ The following pages will display a basic CRUD application for a blog posting Web
 We have also used multiple other libraries for the functionality of the application to run,  these include libraries include:
 mongoose, express, method-override, body-parser, ejs, router
 
-more or less libraries could be used to create a similar application
+To start out creating the app you must first run these commands:
+npm init
+npm -i mongoose express method-override body-parser ejs router
+
+doing this will install the neccesary libraries for the app to run
 
 the views folder holds all the .ejs files which render the html pages.  .ejs files are similar to HTML files, exccept they allow you to include code inside of them by using a special tag
 
