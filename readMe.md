@@ -4,7 +4,9 @@ We have also used multiple other libraries for the functionality of the applicat
 mongoose, express, method-override, body-parser, ejs, router
 
 To start out creating the app you must first run these commands:
+
 npm init
+
 npm -i mongoose express method-override body-parser ejs router
 
 doing this will install the neccesary libraries for the app to run
